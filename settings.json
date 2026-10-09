@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "mosterzz.aternos.me",
-    "port": 25572,
+    "ip": "funsmpn.aternos.me",
+    "port": 25565,
     "version": "1.20.1",
     "try-creative": false
   },
